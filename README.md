@@ -34,11 +34,29 @@ This project presents an interactive Power BI dashboard designed to analyze trai
 
 ---
 
+##  Project Structure
+
+```
+attendance-analytics-dashboard/
+│
+├── dashboard/
+│   ├── POWERBI.pbix
+│
+├── dataset/
+│   ├── attendance-datasheet.xls
+│
+├── screenshot/
+|   ├── dashboard.jpg
+|
+├── README.md
+
+```
+
+---
+
 ## Dashboard Preview
 
-(Add your dashboard screenshot here — upload image to repo and insert like below)
-
-![Dashboard Screenshot](screenshots/dashboard.jpg)
+![Dashboard Screenshot](screenshot/dashboard.jpg)
 
 ---
 
@@ -53,3 +71,8 @@ The dataset contains organizational training participation records used for buil
 - Designed data models and interactive dashboards in Power BI
 - Applied data transformation and visualization best practices
 - Developed business-oriented analytics to support operational monitoring
+
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
