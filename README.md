@@ -1,4 +1,4 @@
-# 📊 Training Attendance Analytics Dashboard (Power BI)
+# Training Attendance Analytics Dashboard (Power BI)
 
 ## Project Overview
 
@@ -38,7 +38,7 @@ This project presents an interactive Power BI dashboard designed to analyze trai
 
 (Add your dashboard screenshot here — upload image to repo and insert like below)
 
-![Dashboard Screenshot](screenshots/dashboard.png)
+![Dashboard Screenshot](screenshots/dashboard.jpg)
 
 ---
 
